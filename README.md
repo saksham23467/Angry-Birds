@@ -53,13 +53,7 @@ Build and deploy using Android Studio
 - **Build Tool**: Gradle
 - **Programming Language**: Java
 
-## Gameplay
 
-The game challenges players to defeat enemies using a limited number of birds across multiple levels. Each level introduces unique obstacles and requires strategic bird launching.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
