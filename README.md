@@ -54,7 +54,3 @@ Build and deploy using Android Studio
 - **Programming Language**: Java
 
 
-
-## License
-
-[Insert License Here]
